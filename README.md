@@ -2,8 +2,8 @@
 
 Build on Streamlit framework
 
-to run server
-## python ml_server
+## to run server
+python ml_server.py
 
-to run web application
-## streamlit run app
+## to run web application
+streamlit run app
