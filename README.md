@@ -3,7 +3,11 @@
 Build on Streamlit framework
 
 ## to run server
+```bash
 python ml_server.py
+```
 
 ## to run web application
+```bash
 streamlit run app
+```
