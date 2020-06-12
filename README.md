@@ -1,9 +1,9 @@
-## Flask and Keras application to visualize neural network layers
+# Flask and Keras application to visualize neural network layers
 
 Build on Streamlit framework
 
 to run server
-# python ml_server
+## python ml_server
 
-to run web applicatiob
-#streamlit run app
+to run web application
+## streamlit run app
