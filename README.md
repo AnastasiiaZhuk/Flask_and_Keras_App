@@ -1,6 +1,6 @@
 # Flask and Keras application to visualize neural network layers
 
-Build on Streamlit framework
+Build on [Streamlit](https://www.streamlit.io/) framework
 
 ## to run server
 ```bash
